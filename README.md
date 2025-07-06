@@ -50,7 +50,7 @@ Open to work, internships, and collaborations :)
 
 ## 🌍 Live Site
 
-> 🔗 [Coming Soon on GitHub Pages](#)
+> 🔗 (https://shivatimikapawar.github.io/Landing_page1/)
 
 (Once I deploy, I’ll update the link here!)
 
